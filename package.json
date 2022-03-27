@@ -1,0 +1,23 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "## [1주차 정리](https://skillful-limburger-539.notion.site/1-87e0b54b0b9b4f45980af99d5bf1bbf7) ### 📋 목차 - 오류의 구문을 미리 찾아내는 것에 대하여 - 타입스크립트의 설정 파일 - 타입스크립트 컴파일러 이해하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cksal0805/typescript-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cksal0805/typescript-study/issues"
+  },
+  "homepage": "https://github.com/cksal0805/typescript-study#readme",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
