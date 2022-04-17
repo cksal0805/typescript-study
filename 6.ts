@@ -11,3 +11,5 @@ function some(animal: Fish | Bird) {
 }
 
 
+
+

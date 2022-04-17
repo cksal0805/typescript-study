@@ -1,4 +1,4 @@
-# TYPESCRIPT 그룹 STUDY 정리
+# 🌊 TYPESCRIPT 그룹 STUDY 정리
 
 ## [1주차 정리](https://skillful-limburger-539.notion.site/1-87e0b54b0b9b4f45980af99d5bf1bbf7)
 ### 📋 목차
@@ -24,5 +24,8 @@
 - 타입 호환
 - 타입 모듈화
 
-## 같이 읽으면 좋아요
+## 🐰 기타 응용했던 내용들
+- [enum 활용](https://skillful-limburger-539.notion.site/ENUM-1239411668c04b5ea184b40b8e04471e)
+
+## 👉🏻 같이 읽으면 좋아요
 [타입스크립트 문서](https://www.typescriptlang.org/docs/handbook/advanced-types.html#user-defined-type-guards)
