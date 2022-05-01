@@ -26,6 +26,7 @@
 
 ## 🐰 기타 응용했던 내용들
 - [enum 활용](https://skillful-limburger-539.notion.site/ENUM-1239411668c04b5ea184b40b8e04471e)
+- [next router as](https://skillful-limburger-539.notion.site/next-router-as-4ff8185ec1564c56a2e1b4dfaf59a2cd)
 
 ## 👉🏻 같이 읽으면 좋아요
 [타입스크립트 문서](https://www.typescriptlang.org/docs/handbook/advanced-types.html#user-defined-type-guards)
